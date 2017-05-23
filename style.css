@@ -1,0 +1,26 @@
+.photo{
+	float:left;
+}
+
+.photo img {
+	width:300px;
+	margin: 25px;
+}
+
+.navLinks  {
+	width:33%; 
+	float:left;
+	text-align:center;
+}
+
+.bannerImage{
+	width:100%
+}
+
+.menu {
+	width:100%;height:20px;border:2px solid; margin-bottom:20px;
+}
+
+.grouppics {
+	clear:both;
+}

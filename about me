@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>Ashley Mefford</title>
+		<link rel="stylesheet" type="text/css"  href="style.css" />
+	</head>
+	<body>
+		<div>
+			<h1> Ashley Mefford</h1>
+		</div>
+		<div class="menu">
+			<div class="navLinks">Home</div>
+			<div class="navLinks">About</div>
+			<div class="navLinks">Contact</div>
+		</div>	
+			<div class="photo">
+					<img src="ashleymeffordrugby.jpg"/>
+			</div>	
+					<p> I first grew a passion for entrepreneurship while I was in my first job out of college.  I was ultimately let go after automating the business. This meant there was no need for my position in the company. In 2012 I decided to start my own online business, Rugby Ninja and use the same automation.  I'm currently taking class with Inventive University to improve my knowlege with website developement and ecommerce. </p>
+				</br>
+					<p2> I have been playing rugby for 15 years.  My current team, the Austin Valkyries, are ranked 5th in Nation.  When I am not playing rugby you can find me at an Obstacle Course Race, such as Spartan Race, on the weekends. What has drawn me to these sports, is the sense of team and family. It's a very close community.</p2>		
+			<div>
+			<div class="photo grouppics">
+					<img src="rugbyninja.jpg"/>
+
+		</body>
+	</head>
+</html>	
+
